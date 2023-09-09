@@ -10,4 +10,5 @@ Este repositorio contiene una calculadora simple que te permite calcular promedi
 
 3. **Limpiar:** Si deseas realizar otros cálculos, puedes limpiar la calculadora haciendo clic en el botón "Limpiar".
 
+## Vista
 ![VISTA](https://github.com/ClaudioVergara2/CalculadoraPromedio/blob/main/ImagenPrototipo.jpg)
