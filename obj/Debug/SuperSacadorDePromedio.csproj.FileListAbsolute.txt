@@ -1,0 +1,31 @@
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\bin\Debug\SuperSacadorDePromedio.exe.config
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\bin\Debug\SuperSacadorDePromedio.exe
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\bin\Debug\SuperSacadorDePromedio.pdb
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.csprojAssemblyReference.cache
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\MainWindow.g.cs
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\App.g.cs
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio_MarkupCompile.cache
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio_MarkupCompile.lref
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\MainWindow.baml
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.g.resources
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.Properties.Resources.resources
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.csproj.GenerateResource.cache
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.exe
+C:\Users\Claudio\Desktop\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.pdb
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\bin\Debug\SuperSacadorDePromedio.exe.config
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\bin\Debug\SuperSacadorDePromedio.exe
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\bin\Debug\SuperSacadorDePromedio.pdb
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio_MarkupCompile.cache
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio_MarkupCompile.lref
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.g.resources
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.Properties.Resources.resources
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.exe
+C:\Users\User\Desktop\Nueva carpeta\SuperSacadorDePromedio\obj\Debug\SuperSacadorDePromedio.pdb

@@ -1,0 +1,30 @@
+﻿<Window x:Class="SuperSacadorDePromedio.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperSacadorDePromedio"
+        mc:Ignorable="d"
+        Title="Súper Sacador de Promedio" Height="470" Width="390" Visibility="Visible">
+    <Grid>
+        <Label Content="Ingrese Nota 1" HorizontalAlignment="Left" Margin="36,42,0,0" VerticalAlignment="Top" Height="27" Width="150" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="14"/>
+        <TextBox x:Name="tb_nota1" HorizontalAlignment="Left" Height="23" Margin="36,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" BorderBrush="Black" SelectionBrush="Black"/>
+        <Label Content="% Nota 1" HorizontalAlignment="Left" Margin="201,42,0,0" VerticalAlignment="Top" Width="150" Height="23" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="14"/>
+        <TextBox x:Name="tb_por1" HorizontalAlignment="Left" Height="23" Margin="201,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" BorderBrush="Black" SelectionBrush="Black"/>
+        <Label Content="Ingrese Nota 2" HorizontalAlignment="Left" Margin="36,113,0,0" VerticalAlignment="Top" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="14"/>
+        <Label Content="% Nota 2" HorizontalAlignment="Left" Margin="203,113,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.368,-0.692" Height="23" Width="68" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="14"/>
+        <TextBox x:Name="tb_nota2" HorizontalAlignment="Left" Height="23" Margin="36,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" BorderBrush="Black" SelectionBrush="Black"/>
+        <TextBox x:Name="tb_por2" HorizontalAlignment="Left" Height="23" Margin="203,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" BorderBrush="Black" SelectionBrush="Black"/>
+        <Label Content="Ingrese Nota 3" HorizontalAlignment="Left" Margin="36,182,0,0" VerticalAlignment="Top" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="14"/>
+        <Label Content="% Nota 3" HorizontalAlignment="Left" Margin="203,182,0,0" VerticalAlignment="Top" Height="23" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="14"/>
+        <TextBox x:Name="tb_nota3" HorizontalAlignment="Left" Height="23" Margin="36,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" BorderBrush="Black" SelectionBrush="Black"/>
+        <TextBox x:Name="tb_por3" HorizontalAlignment="Left" Height="23" Margin="203,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148" BorderBrush="Black" SelectionBrush="Black"/>
+        <Button x:Name="btn_calcular" Content="Calcular!" HorizontalAlignment="Left" Margin="109,256,0,0" VerticalAlignment="Top" Width="152" Height="29" Click="btn_calcular_Click" BorderBrush="Black" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="14"/>
+        <Label Content="SU PROMEDIO ES" HorizontalAlignment="Left" Margin="134,309,0,0" VerticalAlignment="Top" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold"/>
+        <Button x:Name="btn_limpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="109,384,0,0" VerticalAlignment="Top" Width="153" Height="29" Click="btn_limpiar_Click" BorderBrush="Black" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="14"/>
+        <TextBox x:Name="tb_promedio" HorizontalAlignment="Left" Height="23" Margin="127,335,0,0" TextWrapping="Wrap" Text="####" VerticalAlignment="Top" Width="120" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FlowDirection="RightToLeft" FontWeight="Bold" Background="White" BorderBrush="White" FontSize="14" SelectionBrush="White"/>
+        <Label Content="Súper Sacador de Promedio" HorizontalAlignment="Left" VerticalAlignment="Top" Width="392" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="#FF00AEFF" FontFamily="Franklin Gothic Book" FontWeight="Bold" FontSize="16"/>
+
+
+    </Grid>
+</Window>
