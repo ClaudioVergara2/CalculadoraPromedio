@@ -9,3 +9,5 @@ Este repositorio contiene una calculadora simple que te permite calcular promedi
 2. **Cálculo del Promedio:** Una vez que hayas ingresado todas las notas y porcentajes, haz clic en el botón "Calcular Promedio". La calculadora procesará los datos y mostrará el promedio ponderado en pantalla.
 
 3. **Limpiar:** Si deseas realizar otros cálculos, puedes limpiar la calculadora haciendo clic en el botón "Limpiar".
+
+![VISTA](https://github.com/ClaudioVergara2/CalculadoraPromedio/blob/main/ImagenPrototipo.jpg)
